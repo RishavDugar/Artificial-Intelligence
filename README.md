@@ -21,7 +21,25 @@ Assume that all vehicles start their journey at t = 0 and Pr reaches it destinat
 
 ![image](https://user-images.githubusercontent.com/63944682/112748727-5add6280-8fdb-11eb-9a20-9db208bdde94.png)
 
-Follow the Instructions.txt file for installation and other steps.
+Follow the Instructions.txt file for installation and user manual.
 
-Read the Resource.txt file for the logic and algorithms used.
+Read the Report.txt file for the logic and algorithms used.
+
+
+
+# Test Case
+Node-to-Node Distance
+
+![image](https://user-images.githubusercontent.com/63944682/112759171-76faf700-900f-11eb-8575-c0e8065b9081.png)
+
+
+Electric Vehicle Details
+
+![image](https://user-images.githubusercontent.com/63944682/112759258-d2c58000-900f-11eb-80f4-da425cdd0baf.png)
+
+Results obtained
+
+![image](https://user-images.githubusercontent.com/63944682/112759312-06a0a580-9010-11eb-999a-c8a674a534fc.png)
+
+
 
