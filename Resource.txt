@@ -4,7 +4,9 @@ For every electric vehicle we can get several routes and various battery chargin
 
 1) Battery can be charged in discrete amounts only i.e. only integer percentages are allowed. This will not affect optimality largely because the difference in the batteryh charging values will always lie between [0,1) .
 
-2) maxDepth has been initialised which is for the maximum possible routes we are going to consider for each electric vehicle. If all paths are considered it increases the computational time. Hence maxDepth can be initialised to any number (2,3,4,...) . If maxDepth is taken very high, complete combinations of paths will be considered.
+2) maxDepth has been initialised which is for the maximum possible routes we are going to consider for each electric vehicle. If all paths are considered it increases the computational time. Hence maxDepth can be initialised to any number (2,3,4,...) . If maxDepth is taken very high, complete combinations of paths will be considered. 
+
+**For heuristic choose maxDepth = 1 and for optimal maxDepth a large number
 
 
 Steps :
