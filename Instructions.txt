@@ -6,7 +6,9 @@ Step 1) Follow the link to install and setup Visual Studio Code for Python : htt
 
 Step 2) Download the files
 
-Step 3) Edit the AIFA.xlsx with your specific data. Follow the column headings properly for correct results. Now extract the data into two csvs named EV.csv and Nodes.csv .
+Step 3) Edit the AIFA.xlsx with your specific data. Now extract the data into two csvs named EV.csv and Nodes.csv .
+
+**Do check the column headings for the units
 
 Step 4) At lines 5,6,7 change the values of noCar, noCity and maxDepth where maxDepth stands for the relative depth you want to pursue the state space for. Note: We are initially generating all the possible routes from source to destination of a vehicle. From this set the best 'maxDepth' number of routes are taken on the basis of minimum distance.
 
