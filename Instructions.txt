@@ -1,0 +1,30 @@
+''''''''''Installation guide'''''''''' 
+
+Step 1) Follow the link to install and setup Visual Studio Code for Python : https://code.visualstudio.com/docs/languages/python
+
+**You may even use any another text editor of your choice
+
+Step 2) Download the files
+
+Step 3) Edit the AIFA.xlsx with your specific data. Follow the column headings properly for correct results. Now extract the data into two csvs named EV.csv and Nodes.csv .
+
+Step 4) Change the address to the csv files in the Paths_Final.py code at lines 38 and 42.
+
+Step 5) Run the program to get the output.
+
+
+
+''''''''''Output Intrepretation''''''''''
+
+Path Taken : Each element 'i' corresponds to the path taken by the vehicle 'i' to reach it's destination.
+
+Battery Charge Matrix : The percentage of battery charged of vehicle 'i' at node 'j'.
+
+Time charging Starts ... : Each element [i][j] represents the time when vehicle 'i' starts getting charged at node 'j'.
+
+Time charging Ends ... : Each element [i][j] represents the time when vehicle 'i' end getting charged at node 'j'.
+
+Time when Car i... : For each element list, the individuals time stamps stands for the time when vehicle 'i' leaves node 'j'. For destination leave time denotes the arrival time since no charging or waiting happens.
+
+Maximum of the time : Time by which all cars reach their destinations.
+ 
