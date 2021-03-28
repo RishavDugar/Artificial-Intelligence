@@ -41,5 +41,8 @@ Results obtained
 
 ![image](https://user-images.githubusercontent.com/63944682/112759312-06a0a580-9010-11eb-999a-c8a674a534fc.png)
 
+The results can be interpreted using the 'Output Interpretation' in the Instructions.txt 
+For the given sample case it does predict the correct results for the given conditions.
+
 
 
