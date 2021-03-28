@@ -8,9 +8,11 @@ Step 2) Download the files
 
 Step 3) Edit the AIFA.xlsx with your specific data. Follow the column headings properly for correct results. Now extract the data into two csvs named EV.csv and Nodes.csv .
 
-Step 4) Change the address to the csv files in the Paths_Final.py code at lines 38 and 42.
+Step 4) At lines 5,6,7 change the values of noCar, noCity and maxDepth where maxDepth stands for the relative depth you want to pursue the state space for. Note: We are initially generating all the possible routes from source to destination of a vehicle. From this set the best 'maxDepth' number of routes are taken on the basis of minimum distance.
 
-Step 5) Run the program to get the output.
+Step 5) Change the address to the csv files in the Paths_Final.py code at lines 38 and 42.
+
+Step 6) Run the program to get the output.
 
 
 
