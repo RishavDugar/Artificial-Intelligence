@@ -7,6 +7,7 @@ For every electric vehicle we can get several routes and various battery chargin
 2) maxDepth has been initialised which is for the maximum possible routes we are going to consider for each electric vehicle. If all paths are considered it increases the computational time. Hence maxDepth can be initialised to any number (2,3,4,...) . If maxDepth is taken very high, complete combinations of paths will be considered.
 
 **For heuristic choose maxDepth = 1 and for optimal maxDepth a large number
+**For heuristic simply Djikstra can be applied
 
 
 Steps :
