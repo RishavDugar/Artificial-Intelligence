@@ -35,7 +35,7 @@ Node-to-Node Distance
 
 Electric Vehicle Details
 
-![image](https://user-images.githubusercontent.com/63944682/112759258-d2c58000-900f-11eb-80f4-da425cdd0baf.png)
+![image](https://user-images.githubusercontent.com/63944682/113126022-da19a300-9234-11eb-9595-b2264a3c4434.png)
 
 Results obtained
 
